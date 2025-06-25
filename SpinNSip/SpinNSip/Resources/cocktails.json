@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Old Fashioned",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
+    "tags": [
+      "經典",
+      "烈酒"
+    ],
+    "ingredients": [
+      "Bourbon",
+      "Angostura bitters",
+      "Sugar cube",
+      "Water",
+      "Orange peel"
+    ],
+    "instructions": "將糖與苦精混合，加水攪拌後加入冰塊與威士忌，最後放上柳橙皮裝飾。"
+  },
+  {
+    "name": "Martini",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg",
+    "tags": [
+      "經典",
+      "乾型"
+    ],
+    "ingredients": [
+      "Gin",
+      "Dry Vermouth",
+      "Lemon twist or Olive"
+    ],
+    "instructions": "將琴酒與苦艾酒混合攪拌，倒入冰鎮的酒杯中，加檸檬皮或橄欖裝飾。"
+  },
+  {
+    "name": "Margarita",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg",
+    "tags": [
+      "經典",
+      "酸味"
+    ],
+    "ingredients": [
+      "Tequila",
+      "Triple sec",
+      "Lime juice",
+      "Salt"
+    ],
+    "instructions": "用鹽塗杯緣，將龍舌蘭、橙酒與萊姆汁搖勻後倒入杯中。"
+  },
+  {
+    "name": "Negroni",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
+    "tags": [
+      "經典",
+      "苦味"
+    ],
+    "ingredients": [
+      "Gin",
+      "Campari",
+      "Sweet Vermouth"
+    ],
+    "instructions": "將所有材料攪拌均勻倒入加冰的杯中，加橙皮裝飾。"
+  },
+  {
+    "name": "Mojito",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+    "tags": [
+      "清爽",
+      "薄荷",
+      "經典"
+    ],
+    "ingredients": [
+      "White rum",
+      "Sugar",
+      "Lime juice",
+      "Soda water",
+      "Mint"
+    ],
+    "instructions": "將薄荷葉與糖壓碎，加入萊姆汁與蘭姆酒搖勻，加冰後注入蘇打水。"
+  },
+  {
+    "name": "Manhattan",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/ec2jtz1504350429.jpg",
+    "tags": [
+      "經典",
+      "威士忌"
+    ],
+    "ingredients": [
+      "Rye Whiskey",
+      "Sweet Vermouth",
+      "Angostura Bitters",
+      "Cherry"
+    ],
+    "instructions": "將所有材料倒入攪拌杯，攪拌均勻後濾入馬丁尼杯中，加上櫻桃裝飾。"
+  },
+  {
+    "name": "Whiskey Sour",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg",
+    "tags": [
+      "酸味",
+      "經典"
+    ],
+    "ingredients": [
+      "Bourbon",
+      "Lemon juice",
+      "Sugar syrup",
+      "Egg white"
+    ],
+    "instructions": "乾搖（無冰）後加冰再搖，濾入杯中，加一片檸檬裝飾。"
+  },
+  {
+    "name": "Daiquiri",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg",
+    "tags": [
+      "經典",
+      "酸味",
+      "蘭姆酒"
+    ],
+    "ingredients": [
+      "White rum",
+      "Lime juice",
+      "Simple syrup"
+    ],
+    "instructions": "將所有材料與冰塊一起搖勻，濾入雞尾酒杯中。"
+  },
+  {
+    "name": "Boulevardier",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/5jhyd01582579843.jpg",
+    "tags": [
+      "經典",
+      "威士忌",
+      "苦味"
+    ],
+    "ingredients": [
+      "Bourbon",
+      "Campari",
+      "Sweet Vermouth"
+    ],
+    "instructions": "攪拌後倒入加冰的杯中，可加橙皮裝飾。"
+  },
+  {
+    "name": "French 75",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/4qnyty1504368615.jpg",
+    "tags": [
+      "經典",
+      "氣泡",
+      "清爽"
+    ],
+    "ingredients": [
+      "Gin",
+      "Lemon juice",
+      "Sugar syrup",
+      "Champagne"
+    ],
+    "instructions": "搖勻前3種材料後倒入香檳杯，加香檳至滿。"
+  },
+  {
+    "name": "Mai Tai",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg",
+    "tags": [
+      "熱帶",
+      "經典"
+    ],
+    "ingredients": [
+      "White rum",
+      "Dark rum",
+      "Orange curaçao",
+      "Lime juice",
+      "Orgeat syrup"
+    ],
+    "instructions": "將所有材料搖勻後倒入裝有碎冰的杯中，加上薄荷與萊姆片裝飾。"
+  },
+  {
+    "name": "Espresso Martini",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/nzbhc41606702597.jpg",
+    "tags": [
+      "咖啡",
+      "現代經典"
+    ],
+    "ingredients": [
+      "Vodka",
+      "Espresso",
+      "Coffee liqueur",
+      "Sugar syrup"
+    ],
+    "instructions": "將所有材料與冰塊搖勻，濾入馬丁尼杯中，加咖啡豆裝飾。"
+  },
+  {
+    "name": "Moscow Mule",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg",
+    "tags": [
+      "經典",
+      "薑味",
+      "氣泡"
+    ],
+    "ingredients": [
+      "Vodka",
+      "Ginger beer",
+      "Lime juice"
+    ],
+    "instructions": "倒入銅杯加冰塊，加入伏特加與萊姆汁後注入薑汁汽水。"
+  },
+  {
+    "name": "Sidecar",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg",
+    "tags": [
+      "經典",
+      "酸甜"
+    ],
+    "ingredients": [
+      "Cognac",
+      "Triple sec",
+      "Lemon juice"
+    ],
+    "instructions": "搖勻後濾入冰鎮的馬丁尼杯，可塗上糖邊。"
+  },
+  {
+    "name": "Sazerac",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/vvpxwy1439907208.jpg",
+    "tags": [
+      "經典",
+      "苦味",
+      "威士忌"
+    ],
+    "ingredients": [
+      "Rye whiskey",
+      "Absinthe",
+      "Sugar cube",
+      "Peychaud’s bitters"
+    ],
+    "instructions": "用苦艾酒沖洗杯壁，將其他材料攪拌後濾入杯中，加檸檬皮裝飾。"
+  },
+  {
+    "name": "Singapore Sling",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/tvtrrt1439906288.jpg",
+    "tags": [
+      "經典",
+      "熱帶",
+      "果香"
+    ],
+    "ingredients": [
+      "Gin",
+      "Cherry liqueur",
+      "Cointreau",
+      "Pineapple juice",
+      "Lime juice",
+      "Grenadine"
+    ],
+    "instructions": "將所有材料搖勻後倒入裝冰的高杯，加鳳梨與櫻桃裝飾。"
+  },
+  {
+    "name": "Tom Collins",
+    "imageUrl": "https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg",
+    "tags": [
+      "經典",
+      "清爽",
+      "氣泡"
+    ],
+    "ingredients": [
+      "Gin",
+      "Lemon juice",
+      "Sugar syrup",
+      "Soda water"
+    ],
+    "instructions": "搖勻前3種材料倒入冰杯中，加入蘇打水，檸檬片裝飾。"
+  }
+]
